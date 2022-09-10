@@ -1,6 +1,7 @@
 # CLI QUIZ - Do You Know Me?
 
-Welcome to my repository!
+## Made with node.js
 
-This is a CLI app built on repl.it.
-Made with JavaScript, the quiz has some questions related to myself which you can answer and see how well you know me!
+This is a CLI app built using [repl.it](https://replit.com/). It contains a few general questions about myself. I built it as one of the projects for [neogcamp](https://neog.camp/).
+
+#### Have Fun Playing The Quiz!
